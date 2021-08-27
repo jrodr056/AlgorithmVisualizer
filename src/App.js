@@ -263,7 +263,7 @@ class App extends Component{
     var value = graph[i];
     var percent = value.toString()+"%";
     var color = App.COLORDEFAULT;
-    display.push(<div id={i} className="mb-1"style={{width:percent,height:'6px',backgroundColor:color}}></div>)
+    display.push(<div key={i} id={i} className="mb-1"style={{width:percent,height:'6px',backgroundColor:color}}></div>)
   }
   return (
     <React.Fragment>
