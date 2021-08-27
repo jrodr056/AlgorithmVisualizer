@@ -2,7 +2,7 @@
 # Algorithm Visualizer
 
 This algorithm was written in ReactJS and uses bootstrap version 4.1.1.
-This was created as a way for me to practice my sorting functions as well as my ReactJS.
+This was created as a way for me to practice my sorting algorithms as well as my ReactJS.
 Hope you like it!
 
 # Getting Started with Create React App
